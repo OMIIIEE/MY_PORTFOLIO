@@ -11,6 +11,15 @@
     'MongoDB',
     'ViteJS',
     'Node JS',
+    'Docker',
+    'Python',
+    'MySQL',
+    'Bootstrap',
+    'Ubuntu',
+    'Azure',
+    'AWS',
+    'Nginx',
+
     // 'Fastify',
     // 'Blender',
     
